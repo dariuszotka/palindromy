@@ -1,0 +1,3 @@
+checks if given argument is a palindrome
+returns "palindrom"(True) or "nie"(False) based on given argument
+argument: input by user 
